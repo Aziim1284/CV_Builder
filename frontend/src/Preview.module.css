@@ -1,0 +1,36 @@
+
+.container{
+    height: 168px;
+}
+.name{
+    font-style:oblique;
+    font-size: 22px;
+    color: darkslategrey;
+    
+}
+.heading{
+    font-style:oblique;
+    font-size: 32px;
+    color: darkslategrey;
+    padding: 40px;
+}
+.heading1{
+    font-style:oblique;
+    font-size: 22px;
+    color: darkslategrey;
+    padding: 40px;
+}
+.info{
+    font-style:oblique;
+    font-size: 17px;
+    color: darkslategrey;
+}
+.row{
+    background-color: gainsboro;
+}
+
+@media only screen and (max-width: 600px) {
+
+  
+  
+}
