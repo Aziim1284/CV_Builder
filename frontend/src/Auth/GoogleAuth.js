@@ -32,13 +32,13 @@ const GoogleAuth =()=>{
 }
  
 const firebaseConfig = {
-  apiKey: "AIzaSyCgXZBSL9QS2vwPtDfff183xyNHd-8Pz2A",
-  authDomain: "fblogin-c326f.firebaseapp.com",
-  projectId: "fblogin-c326f",
-  storageBucket: "fblogin-c326f.appspot.com",
-  messagingSenderId: "160719322271",
-  appId: "1:160719322271:web:3c2abddc85b6ce638376aa",
-  measurementId: "G-5HE5YJG00Z"
+  apiKey: "your key",
+  authDomain: "your domain",
+  projectId: "project id",
+  storageBucket: "bucket id",
+  messagingSenderId: "sender id",
+  appId: "your app id",
+  measurementId: "measurement id"
 };
   
   const app = initializeApp(firebaseConfig);
